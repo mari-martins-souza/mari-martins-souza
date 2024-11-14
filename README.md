@@ -1,6 +1,6 @@
 # Hey there! I'm Mariana – glad you stopped by! # 
 
-<p style="width:100%;height:0;padding-bottom:100%;align="left"> 
+<p align="center"> 
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGN5ZnlyNzAxc3c4cjVleGQyOWxmdXBpY2ZkYmFwbzZ3d3FwbnhrdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2UpMjkgq1lZdVVnTAv/giphy.webp" />
 </p>
 
