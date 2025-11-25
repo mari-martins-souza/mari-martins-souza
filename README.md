@@ -1,9 +1,5 @@
 # Hey there! I'm Mariana – glad you stopped by! # 
 
-<p align="center"> 
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGN5ZnlyNzAxc3c4cjVleGQyOWxmdXBpY2ZkYmFwbzZ3d3FwbnhrdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2UpMjkgq1lZdVVnTAv/giphy.webp" />
-</p>
-
 I'm diving deep into web development, focusing on Angular for the frontend and Spring for the backend. After years enhancing the e-commerce shopping experience, I'm ready for a new journey, now fully committed to programming and technology.
 
 ## About Me ##
