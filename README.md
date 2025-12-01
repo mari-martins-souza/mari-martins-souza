@@ -23,7 +23,7 @@ I love cats, medieval-themed shows and games (with occasional K-drama phases). H
   <!-- stacks stats
   <img width="434px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mari-martins-souza&hide=html&layout=compact&theme=gotham" />
   -->
-  https://streak-stats.demolab.com/?user=mari-martins-souza&theme=merko&border=599200
+  <img width="434px" src="https://streak-stats.demolab.com/?user=mari-martins-souza&theme=merko&border=599200" />
 </p>
 
 <p align="right">
